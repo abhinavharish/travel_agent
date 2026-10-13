@@ -1,0 +1,74 @@
+{
+  "Paris": {
+    "places": [
+      {"name":"Louvre area","area":"1st arrondissement","description":"Choose a focused visit to the Louvre or enjoy the Tuileries gardens nearby.","tags":["art","history","culture"],"duration":3.0,"cost":25},
+      {"name":"Île de la Cité","area":"Central Paris","description":"See the historic island and riverside; check current access and restoration notices.","tags":["history","culture"],"duration":2.0,"cost":15},
+      {"name":"Musée d'Orsay","area":"7th arrondissement","description":"Explore the Impressionist collection in the former railway station.","tags":["art","culture"],"duration":2.5,"cost":16},
+      {"name":"Montmartre","area":"18th arrondissement","description":"Wander the hilltop lanes, artists' quarter, and Sacré-Cœur surroundings.","tags":["culture","history","art"],"duration":2.5,"cost":0},
+      {"name":"Le Marais food and streets","area":"3rd and 4th arrondissements","description":"Explore historic streets, cafés, bakeries, and independent shops.","tags":["food","shopping","history"],"duration":2.5,"cost":25},
+      {"name":"Seine riverside walk","area":"Central Paris","description":"Walk the riverbanks and bridges; consider a cruise if it fits your budget.","tags":["nature","relaxation","culture"],"duration":2.0,"cost":0},
+      {"name":"Luxembourg Gardens","area":"6th arrondissement","description":"Take a slower break among the gardens and nearby Latin Quarter streets.","tags":["nature","relaxation"],"duration":2.0,"cost":0},
+      {"name":"Canal Saint-Martin","area":"10th arrondissement","description":"Enjoy a relaxed waterside walk with neighborhood cafés and shops.","tags":["food","relaxation","shopping"],"duration":2.0,"cost":15}
+    ]
+  },
+  "London": {
+    "places": [
+      {"name":"Westminster riverside","area":"Westminster","description":"See the Parliament, Big Ben, and riverside landmarks from the public streets.","tags":["history","culture"],"duration":2.0,"cost":0},
+      {"name":"British Museum","area":"Bloomsbury","description":"Pick a few galleries in the vast collection; check timed-entry requirements.","tags":["history","art","culture"],"duration":3.0,"cost":0},
+      {"name":"South Bank walk","area":"South Bank","description":"Walk the Thames path past cultural venues, food stalls, and public spaces.","tags":["culture","food","nature"],"duration":2.5,"cost":0},
+      {"name":"Borough Market and Southwark","area":"London Bridge","description":"Browse the food market and nearby historic streets; verify market days.","tags":["food","history"],"duration":2.0,"cost":25},
+      {"name":"National Gallery","area":"Trafalgar Square","description":"See highlights from the collection and take a walk through Trafalgar Square.","tags":["art","culture"],"duration":2.5,"cost":0},
+      {"name":"Hyde Park","area":"West London","description":"Take a green-space break and explore the surrounding neighborhoods.","tags":["nature","relaxation"],"duration":2.0,"cost":0},
+      {"name":"Covent Garden","area":"West End","description":"Browse the market area, street performances, theaters, and nearby food spots.","tags":["shopping","food","culture"],"duration":2.5,"cost":20},
+      {"name":"Tower of London area","area":"Tower Hill","description":"Explore the riverside and consider a visit to the historic fortress.","tags":["history","culture"],"duration":3.0,"cost":35}
+    ]
+  },
+  "Tokyo": {
+    "places": [
+      {"name":"Asakusa and Sensō-ji","area":"Taitō","description":"Visit the temple precinct and browse the traditional shopping street.","tags":["history","culture","shopping"],"duration":2.5,"cost":0},
+      {"name":"Ueno Park and museums","area":"Taitō","description":"Choose a museum or enjoy the park and nearby market streets.","tags":["art","history","nature"],"duration":3.0,"cost":20},
+      {"name":"Shibuya and Harajuku","area":"Shibuya","description":"Explore the crossing, side streets, fashion, and cafés.","tags":["shopping","food","culture"],"duration":3.0,"cost":20},
+      {"name":"Meiji Shrine and Yoyogi Park","area":"Shibuya","description":"Take a quiet forest walk around the shrine and adjoining park.","tags":["history","nature","relaxation"],"duration":2.5,"cost":0},
+      {"name":"Tsukiji outer market","area":"Chūō","description":"Try a morning food walk among market stalls; go early and check vendor hours.","tags":["food","culture"],"duration":2.0,"cost":25},
+      {"name":"Shinjuku Gyoen","area":"Shinjuku","description":"Take a garden break and explore the lively surrounding district.","tags":["nature","relaxation"],"duration":2.0,"cost":5},
+      {"name":"Akihabara","area":"Chiyoda","description":"Browse electronics, games, anime shops, and themed cafés.","tags":["shopping","culture"],"duration":2.5,"cost":20},
+      {"name":"Yanaka neighborhood walk","area":"Taitō","description":"Explore old Tokyo lanes, small temples, and local shops at an easy pace.","tags":["history","culture","food"],"duration":2.0,"cost":10}
+    ]
+  },
+  "Rome": {
+    "places": [
+      {"name":"Colosseum and Roman Forum","area":"Monti","description":"Plan a timed visit to the ancient sites; reserve tickets ahead when possible.","tags":["history","culture"],"duration":3.5,"cost":25},
+      {"name":"Pantheon and historic center","area":"Centro Storico","description":"Walk between the Pantheon, piazzas, and nearby historic lanes.","tags":["history","culture"],"duration":2.5,"cost":10},
+      {"name":"Vatican Museums","area":"Vatican","description":"Choose a focused museum visit and check ticket availability in advance.","tags":["art","history","culture"],"duration":3.5,"cost":25},
+      {"name":"Trastevere food walk","area":"Trastevere","description":"Explore the neighborhood lanes and plan a relaxed local dinner.","tags":["food","culture"],"duration":2.5,"cost":30},
+      {"name":"Villa Borghese gardens","area":"Pinciano","description":"Take a green-space break; the Borghese Gallery requires advance booking.","tags":["nature","art","relaxation"],"duration":2.5,"cost":0},
+      {"name":"Trevi Fountain and Spanish Steps","area":"Centro Storico","description":"Visit the well-known public sights on an early or evening walk.","tags":["history","culture","shopping"],"duration":2.0,"cost":0},
+      {"name":"Testaccio market","area":"Testaccio","description":"Explore a local food market and the surrounding neighborhood.","tags":["food","culture"],"duration":2.0,"cost":20},
+      {"name":"Appian Way","area":"South Rome","description":"Consider a walk or cycle on the historic road; check transport and site access.","tags":["history","nature","adventure"],"duration":3.0,"cost":10}
+    ]
+  },
+  "New York": {
+    "places": [
+      {"name":"Central Park","area":"Manhattan","description":"Choose a section of the park and pair it with a nearby neighborhood.","tags":["nature","relaxation"],"duration":2.5,"cost":0},
+      {"name":"Metropolitan Museum of Art","area":"Upper East Side","description":"Pick a few galleries in the large collection rather than trying to see it all.","tags":["art","history","culture"],"duration":3.0,"cost":30},
+      {"name":"Lower Manhattan walk","area":"Downtown","description":"Explore historic streets, the waterfront, and public memorial spaces.","tags":["history","culture"],"duration":2.5,"cost":0},
+      {"name":"Brooklyn Bridge and DUMBO","area":"Brooklyn","description":"Walk the bridge and explore waterfront views and neighborhood shops.","tags":["nature","culture","shopping"],"duration":2.5,"cost":0},
+      {"name":"Chelsea galleries and High Line","area":"Chelsea","description":"Walk the elevated park and browse nearby galleries; check current access.","tags":["art","nature","culture"],"duration":2.5,"cost":0},
+      {"name":"Chinatown food walk","area":"Lower Manhattan","description":"Explore the neighborhood and choose a few local food stops.","tags":["food","culture"],"duration":2.5,"cost":30},
+      {"name":"Broadway or live music evening","area":"Midtown","description":"Choose a performance that fits your dates and book through an official seller.","tags":["culture","art"],"duration":3.0,"cost":90},
+      {"name":"Union Square and Greenwich Village","area":"Manhattan","description":"Browse a market or shops, then stroll the village streets.","tags":["food","shopping","culture"],"duration":2.5,"cost":20}
+    ]
+  },
+  "Delhi": {
+    "places": [
+      {"name":"Humayun's Tomb","area":"Nizamuddin","description":"Explore the Mughal garden tomb and nearby heritage surroundings.","tags":["history","culture"],"duration":2.5,"cost":10},
+      {"name":"Old Delhi and Jama Masjid area","area":"Old Delhi","description":"Take a guided walk through historic lanes and local food streets.","tags":["history","food","culture"],"duration":3.0,"cost":20},
+      {"name":"National Museum","area":"Central Delhi","description":"Choose a few collections for a focused visit; check current hours.","tags":["history","art","culture"],"duration":2.5,"cost":5},
+      {"name":"Lodhi Garden","area":"Lodhi Estate","description":"Walk among landscaped gardens and historic tombs.","tags":["nature","history","relaxation"],"duration":2.0,"cost":0},
+      {"name":"Qutub Minar complex","area":"Mehrauli","description":"Explore the historic monument complex and surrounding heritage area.","tags":["history","culture"],"duration":2.5,"cost":10},
+      {"name":"Dilli Haat food and crafts","area":"South Delhi","description":"Browse regional handicrafts and sample food from different states.","tags":["food","shopping","culture"],"duration":2.0,"cost":20},
+      {"name":"Connaught Place","area":"Central Delhi","description":"Explore the circular market streets, cafés, and nearby public spaces.","tags":["shopping","food","culture"],"duration":2.0,"cost":20},
+      {"name":"Akshardham","area":"East Delhi","description":"Check visitor rules and opening days before planning a visit.","tags":["history","culture"],"duration":3.0,"cost":5}
+    ]
+  }
+}
